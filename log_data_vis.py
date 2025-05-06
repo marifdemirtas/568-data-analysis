@@ -18,7 +18,7 @@ def visualize_user_traces(json_path, users=None, output_path='user_trace_diagram
         # Student tags - Blue family
         'Question Prompt': '#1E88E5',  # Primary blue
         'Question Summary': '#64B5F6',  # Lighter blue
-        'Request': '#90CAF9',  # Lightest blue
+        'Request': '#D5FFFF',  # Lightest blue
         
         # Student tags - Purple family
         'Exploration': '#7E57C2',  # Primary purple
@@ -135,4 +135,4 @@ def visualize_user_traces(json_path, users=None, output_path='user_trace_diagram
     print(f"Trace diagram saved to {output_path}")
 
 if __name__ == '__main__':
-    visualize_user_traces('user_messages.json', None, show_assistant_actions=True)
+    visualize_user_traces('user_messages.json', None, show_assistant_actions=False)

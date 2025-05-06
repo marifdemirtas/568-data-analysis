@@ -19,7 +19,7 @@
       "role": "student",
       "content": "It doesn't work for certain cases, for example \"(:))\" returns false even though it should return true",
       "order": 2,
-      "tag": "Exploration"
+      "tag": "Error Message"
     },
     {
       "tutor": "openai-explanation",

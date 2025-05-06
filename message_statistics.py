@@ -2,8 +2,9 @@ import json
 from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
+import csv
 
-def analyze_message_statistics(json_path, output_path='message_statistics.png'):
+def analyze_message_statistics(json_path, output_path='message_statistics.png', csv_path='message_statistics.csv'):
     # Load data
     with open(json_path, 'r') as f:
         data = json.load(f)
@@ -36,6 +37,20 @@ def analyze_message_statistics(json_path, output_path='message_statistics.png'):
         for tag, count in sorted(stats.items(), key=lambda x: x[1], reverse=True):
             percentage = (count / total_messages[tutor]) * 100
             print(f"  - {tag}: {count} ({percentage:.1f}%)")
+    
+    # Export to CSV
+    with open(csv_path, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        # Write header
+        writer.writerow(['Tutor', 'Message Type', 'Count', 'Percentage'])
+        
+        # Write data rows
+        for tutor in sorted(tutor_stats.keys()):
+            for tag, count in sorted(tutor_stats[tutor].items(), key=lambda x: x[1], reverse=True):
+                percentage = (count / total_messages[tutor]) * 100
+                writer.writerow([tutor, tag, count, f"{percentage:.1f}%"])
+    
+    print(f"\nStatistics exported to {csv_path}")
     
     # Create visualization
     tutors = sorted(list(tutor_stats.keys()))  # Sort tutors alphabetically

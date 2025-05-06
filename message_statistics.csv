@@ -1,0 +1,39 @@
+Tutor,Message Type,Count,Percentage
+gemini-direct,Request,7,41.2%
+gemini-direct,Question Prompt,4,23.5%
+gemini-direct,Clarification,3,17.6%
+gemini-direct,Error Message,3,17.6%
+gemini-explanation,Clarification,23,34.3%
+gemini-explanation,Request,15,22.4%
+gemini-explanation,Error Message,12,17.9%
+gemini-explanation,Exploration,7,10.4%
+gemini-explanation,Question Prompt,6,9.0%
+gemini-explanation,Pseudocode Solution,2,3.0%
+gemini-explanation,Question Summary,1,1.5%
+gemini-explanation,Partial Solution,1,1.5%
+gemini-scaffolding,Clarification,22,40.7%
+gemini-scaffolding,Question Prompt,13,24.1%
+gemini-scaffolding,Partial Solution,7,13.0%
+gemini-scaffolding,Pseudocode Solution,5,9.3%
+gemini-scaffolding,Request,5,9.3%
+gemini-scaffolding,Exploration,2,3.7%
+openai-direct,Question Prompt,4,26.7%
+openai-direct,Exploration,3,20.0%
+openai-direct,Clarification,2,13.3%
+openai-direct,Partial Solution,2,13.3%
+openai-direct,Request,2,13.3%
+openai-direct,Unrelated,1,6.7%
+openai-direct,Pseudocode Solution,1,6.7%
+openai-explanation,Request,8,44.4%
+openai-explanation,Error Message,4,22.2%
+openai-explanation,Question Prompt,3,16.7%
+openai-explanation,Exploration,1,5.6%
+openai-explanation,Question Summary,1,5.6%
+openai-explanation,Unrelated,1,5.6%
+openai-scaffolding,Unrelated,19,37.3%
+openai-scaffolding,Request,8,15.7%
+openai-scaffolding,Clarification,7,13.7%
+openai-scaffolding,Partial Solution,6,11.8%
+openai-scaffolding,Question Prompt,5,9.8%
+openai-scaffolding,Question Summary,3,5.9%
+openai-scaffolding,Pseudocode Solution,3,5.9%
