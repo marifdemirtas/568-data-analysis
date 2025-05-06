@@ -1,0 +1,840 @@
+[{
+  "_id": {
+    "$oid": "681837b2add02b845bd95040"
+  },
+  "username": "XenonEagle",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:46.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95042"
+  },
+  "username": "HappyFrost",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95044"
+  },
+  "username": "AppleHappy",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95046"
+  },
+  "username": "AppleKitten",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95048"
+  },
+  "username": "XenonTiger",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9504a"
+  },
+  "username": "TigerHappy",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9504c"
+  },
+  "username": "WhaleXenon",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9504e"
+  },
+  "username": "YellowGrape",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95050"
+  },
+  "username": "QuartzLemon",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95052"
+  },
+  "username": "FrostGrape",
+  "allowedServices": [
+    "gemini-direct"
+  ],
+  "defaultService": "gemini-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95054"
+  },
+  "username": "WhaleApple",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95056"
+  },
+  "username": "XenonLemon",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95058"
+  },
+  "username": "TigerTiger",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9505a"
+  },
+  "username": "TigerMonkey",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9505c"
+  },
+  "username": "EagleYellow",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9505e"
+  },
+  "username": "TigerWhale",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95060"
+  },
+  "username": "PandaUmbrella",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95062"
+  },
+  "username": "TigerEagle",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95064"
+  },
+  "username": "CandyBaker",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95066"
+  },
+  "username": "AppleNoodle",
+  "allowedServices": [
+    "gemini-explanation"
+  ],
+  "defaultService": "gemini-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd95068"
+  },
+  "username": "IslandHappy",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9506a"
+  },
+  "username": "SunnyUmbrella",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b3add02b845bd9506c"
+  },
+  "username": "IslandFrost",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:47.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9506e"
+  },
+  "username": "MonkeyBaker",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95070"
+  },
+  "username": "YellowCandy",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95072"
+  },
+  "username": "FrostMonkey",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95074"
+  },
+  "username": "EagleSunny",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95076"
+  },
+  "username": "GrapeHappy",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95078"
+  },
+  "username": "CandyViolet",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9507a"
+  },
+  "username": "MonkeyJolly",
+  "allowedServices": [
+    "gemini-scaffolding"
+  ],
+  "defaultService": "gemini-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9507c"
+  },
+  "username": "TigerJolly",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9507e"
+  },
+  "username": "QuartzDelta",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95080"
+  },
+  "username": "OrangeMonkey",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95082"
+  },
+  "username": "WhaleHappy",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95084"
+  },
+  "username": "BakerCandy",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95086"
+  },
+  "username": "LemonEagle",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95088"
+  },
+  "username": "SunnyEagle",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9508a"
+  },
+  "username": "EagleQuartz",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9508c"
+  },
+  "username": "DeltaHappy",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd9508e"
+  },
+  "username": "PandaTiger",
+  "allowedServices": [
+    "openai-direct"
+  ],
+  "defaultService": "openai-direct",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95090"
+  },
+  "username": "QuartzNoodle",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95092"
+  },
+  "username": "VioletGrape",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95094"
+  },
+  "username": "CandyOrange",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b4add02b845bd95096"
+  },
+  "username": "AppleSunny",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:48.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd95098"
+  },
+  "username": "ZebraApple",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd9509a"
+  },
+  "username": "KittenLemon",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd9509c"
+  },
+  "username": "UmbrellaIsland",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd9509e"
+  },
+  "username": "PandaXenon",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950a0"
+  },
+  "username": "OrangeXenon",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950a2"
+  },
+  "username": "PandaFrost",
+  "allowedServices": [
+    "openai-explanation"
+  ],
+  "defaultService": "openai-explanation",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950a4"
+  },
+  "username": "OrangeEagle",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950a6"
+  },
+  "username": "IslandCandy",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950a8"
+  },
+  "username": "RocketWhale",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950aa"
+  },
+  "username": "QuartzSunny",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950ac"
+  },
+  "username": "EagleUmbrella",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950ae"
+  },
+  "username": "IslandBaker",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950b0"
+  },
+  "username": "JollyJolly",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950b2"
+  },
+  "username": "YellowOrange",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950b4"
+  },
+  "username": "FrostRocket",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681837b5add02b845bd950b6"
+  },
+  "username": "XenonGrape",
+  "allowedServices": [
+    "openai-scaffolding"
+  ],
+  "defaultService": "openai-scaffolding",
+  "createdAt": {
+    "$date": "2025-05-05T03:59:49.522Z"
+  },
+  "__v": 0
+}]

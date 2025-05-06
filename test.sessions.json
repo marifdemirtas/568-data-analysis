@@ -1,0 +1,77 @@
+[{
+  "_id": "nV3IU4nPjWarDl6TOTIfX0xV-3Yi3xFu",
+  "expires": {
+    "$date": "2025-05-12T15:59:36.138Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T04:00:00.433Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b5add02b845bd950b6\",\"username\":\"XenonGrape\"}"
+},
+{
+  "_id": "wklAe9rCl9wfshbnID1nj3NbDJGWEqld",
+  "expires": {
+    "$date": "2025-05-12T16:21:47.515Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:15:32.847Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b5add02b845bd950ac\",\"username\":\"EagleUmbrella\",\"llmServices\":{\"6818e423e77fdcf082ac2c65\":{\"serviceId\":\"openai-scaffolding\",\"instance\":{\"tutorMode\":\"scaffolding\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gpt-4o-mini\"}}}}"
+},
+{
+  "_id": "Pzz0-KiPk0CPYWN8YoTBdDqFGZWv-n2p",
+  "expires": {
+    "$date": "2025-05-12T16:02:45.636Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T15:54:27.467Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b5add02b845bd9509a\",\"username\":\"KittenLemon\",\"llmServices\":{\"6818df2ab4e72a6c59ecf2eb\":{\"serviceId\":\"openai-explanation\",\"instance\":{\"tutorMode\":\"explanation\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gpt-4o-mini\"}}}}"
+},
+{
+  "_id": "PS0scGVuKzDjBlIWzs-gc0PNCplrunjd",
+  "expires": {
+    "$date": "2025-05-12T21:48:16.393Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:06:45.272Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b4add02b845bd95070\",\"username\":\"YellowCandy\",\"llmServices\":{\"6818df82b4e72a6c59ecf2f5\":{\"serviceId\":\"gemini-scaffolding\",\"instance\":{\"tutorMode\":\"scaffolding\",\"stage\":1,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gemini-2.0-flash-lite\"}}}}"
+},
+{
+  "_id": "b5qfA87V9rESrFLkp06UYtaYbvvna0Dx",
+  "expires": {
+    "$date": "2025-05-12T16:15:56.394Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:02:04.694Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b3add02b845bd95058\",\"username\":\"TigerTiger\",\"llmServices\":{\"6818e0fae77fdcf082ac2710\":{\"serviceId\":\"gemini-explanation\",\"instance\":{\"tutorMode\":\"explanation\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gemini-2.0-flash-lite\"}}}}"
+},
+{
+  "_id": "knAsxMnOeW48u3j7wZcwL1KgJ_8jn4fY",
+  "expires": {
+    "$date": "2025-05-12T18:43:59.910Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:23:00.864Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b5add02b845bd950b2\",\"username\":\"YellowOrange\",\"llmServices\":{\"6818df82b4e72a6c59ecf2f9\":{\"serviceId\":\"openai-scaffolding\",\"instance\":{\"tutorMode\":\"scaffolding\",\"stage\":5,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gpt-4o-mini\"}}}}"
+},
+{
+  "_id": "qzG3a__RivuiW2vZT9YDFD1EDiOgnTMi",
+  "expires": {
+    "$date": "2025-05-12T16:23:46.615Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T15:58:13.875Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b4add02b845bd9508c\",\"username\":\"DeltaHappy\",\"llmServices\":{\"6818e015b4e72a6c59ecf33d\":{\"serviceId\":\"openai-direct\",\"instance\":{\"tutorMode\":\"direct\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gpt-4o-mini\"}}}}"
+},
+{
+  "_id": "V48EPJuo3vI-sG-Q2WjTUm4aIsvkIKFB",
+  "expires": {
+    "$date": "2025-05-12T16:22:43.114Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:02:57.445Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b3add02b845bd95044\",\"username\":\"AppleHappy\",\"llmServices\":{\"6818e12fe77fdcf082ac273c\":{\"serviceId\":\"gemini-direct\",\"instance\":{\"tutorMode\":\"direct\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gemini-2.0-flash-lite\"}}}}"
+},
+{
+  "_id": "HU1BOkWvMcZqjZDC9LVXLhIKG-ObaTbU",
+  "expires": {
+    "$date": "2025-05-12T19:16:39.106Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:04:38.579Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b3add02b845bd95060\",\"username\":\"PandaUmbrella\",\"llmServices\":{\"6818e194e77fdcf082ac27a9\":{\"serviceId\":\"gemini-explanation\",\"instance\":{\"tutorMode\":\"explanation\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gemini-2.0-flash-lite\"}}}}"
+},
+{
+  "_id": "6lAnpU0YMVfGpL2NoIyJb9QAQSzSA1mx",
+  "expires": {
+    "$date": "2025-05-12T17:52:52.609Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:01:48.162Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b3add02b845bd9506a\",\"username\":\"SunnyUmbrella\",\"llmServices\":{\"6818e0ebe77fdcf082ac26ea\":{\"serviceId\":\"gemini-scaffolding\",\"instance\":{\"tutorMode\":\"scaffolding\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gemini-2.0-flash-lite\"}}}}"
+},
+{
+  "_id": "5YYkqexdcBlntlepH_No03bZ8UI94SpF",
+  "expires": {
+    "$date": "2025-05-12T19:42:32.261Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":604800000,\"expires\":\"2025-05-12T16:06:42.920Z\",\"secure\":false,\"httpOnly\":true,\"path\":\"/\",\"sameSite\":\"lax\"},\"userId\":\"681837b3add02b845bd95052\",\"username\":\"FrostGrape\",\"llmServices\":{\"6818e211e77fdcf082ac2826\":{\"serviceId\":\"gemini-direct\",\"instance\":{\"tutorMode\":\"direct\",\"stage\":0,\"stages\":[\"sensemaking\",\"representation\",\"planning\",\"execution\",\"monitoring\",\"reflection\"],\"model_string\":\"gemini-2.0-flash-lite\"}}}}"
+}]

@@ -1,0 +1,15 @@
+Tags for role=student:
+- Question Prompt
+- Question Summary
+- Exploration
+- Clarification
+- Request
+- Partial Solution
+- Pseudocode Solution
+- Unrelated
+
+Tags for role=assistant:
+- Solution
+- Leading Question
+- Feedback
+- Unrelated 
