@@ -19,12 +19,14 @@ def visualize_user_traces(json_path, users=None, output_path='user_trace_diagram
         'Question Prompt': '#1E88E5',  # Primary blue
         'Question Summary': '#64B5F6',  # Lighter blue
         'Request': '#D5FFFF',  # Lightest blue
-        
+        'Question Clarification': '#FFE0E0',  # Light red
+
+
         # Student tags - Purple family
         'Exploration': '#7E57C2',  # Primary purple
-        'Clarification': '#B39DDB',  # Lighter purple
+        'Clarifying Question': '#B39DDB',  # Lighter purple
         'Error Message': '#FF5722',  # Orange
-        
+
         # Student tags - Teal family
         'Partial Solution': '#00897B',  # Primary teal
         'Pseudocode Solution': '#4DB6AC',  # Lighter teal
@@ -53,7 +55,7 @@ def visualize_user_traces(json_path, users=None, output_path='user_trace_diagram
     # Create legend handles in the order of tag_colors
     for tag, color in tag_colors.items():
         if tag in ['Question Prompt', 'Question Summary', 'Request', 'Exploration', 
-                  'Clarification', 'Partial Solution', 'Pseudocode Solution', 'Error Message']:
+                  'Question Clarification', 'Clarifying Question', 'Partial Solution', 'Pseudocode Solution', 'Error Message']:
             legend_handles_student.append(mpatches.Patch(facecolor=color, edgecolor='black', label=tag))
         elif tag in ['Solution', 'Leading Question', 'Feedback', 'Unrelated']:
             legend_handles_assistant.append(mpatches.Patch(facecolor=color, edgecolor='none', label=tag))

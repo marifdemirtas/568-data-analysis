@@ -9,6 +9,31 @@ def analyze_message_statistics(json_path, output_path='message_statistics.png', 
     with open(json_path, 'r') as f:
         data = json.load(f)
     
+    tag_colors = {
+        # Student tags - Blue family
+        'Question Prompt': '#1E88E5',  # Primary blue
+        'Question Summary': '#64B5F6',  # Lighter blue
+        'Request': '#D5FFFF',  # Lightest blue
+        'Question Clarification': '#FFE0E0',  # Light red
+
+
+        # Student tags - Purple family
+        'Exploration': '#7E57C2',  # Primary purple
+        'Clarifying Question': '#B39DDB',  # Lighter purple
+        'Error Message': '#FF5722',  # Orange
+
+        # Student tags - Teal family
+        'Partial Solution': '#00897B',  # Primary teal
+        'Pseudocode Solution': '#4DB6AC',  # Lighter teal
+        
+        # Assistant tags
+        'Solution': '#43A047',  # Green
+        'Leading Question': '#FFD600',  # Yellow
+        'Feedback': '#FB8C00',  # Orange
+        'Unrelated': '#9E9E9E'  # Gray
+    }
+
+
     # Initialize statistics
     tutor_stats = defaultdict(lambda: defaultdict(int))
     total_messages = defaultdict(int)
@@ -66,14 +91,12 @@ def analyze_message_statistics(json_path, output_path='message_statistics.png', 
     # Create figure and axis
     fig, ax = plt.subplots(figsize=(12, 8))
     
-    # Define colors for different tags
-    colors = plt.cm.tab20(np.linspace(0, 1, len(tags)))
-    
     # Plot stacked bars
     bottom = np.zeros(len(tutors))
     for i, tag in enumerate(tags):
         counts = [tutor_stats[tutor].get(tag, 0) for tutor in tutors]
-        ax.bar(x, counts, width, bottom=bottom, label=tag, color=colors[i])
+        color = tag_colors.get(tag, '#9E9E9E')  # Use predefined colors, fallback to gray if not found
+        ax.bar(x, counts, width, bottom=bottom, label=tag, color=color)
         bottom += counts
     
     # Customize the plot
