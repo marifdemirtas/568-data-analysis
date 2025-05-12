@@ -499,7 +499,7 @@
         "role": "student",
         "content": "We already talked about counting and balancing",
         "order": 44,
-        "tag": "Model Clarification"
+        "tag": "Question Clarification"
       },
       {
         "tutor": "openai-scaffolding",

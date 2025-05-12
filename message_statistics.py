@@ -89,7 +89,7 @@ def analyze_message_statistics(json_path, output_path='message_statistics.png', 
     width = 0.8
     
     # Create figure and axis
-    fig, ax = plt.subplots(figsize=(12, 8))
+    fig, ax = plt.subplots(figsize=(14, 14))
     
     # Plot stacked bars
     bottom = np.zeros(len(tutors))
@@ -100,11 +100,12 @@ def analyze_message_statistics(json_path, output_path='message_statistics.png', 
         bottom += counts
     
     # Customize the plot
-    ax.set_ylabel('Number of Messages')
-    ax.set_title('Message Types by Tutor')
+    ax.set_ylabel('#Messages', fontsize=24)
+    # ax.set_title('Message Types by Tutor', fontsize=32)
     ax.set_xticks(x)
-    ax.set_xticklabels(tutors, rotation=45, ha='right')
-    ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+    ax.set_xticklabels(tutors, rotation=45, ha='right', fontsize=24)
+    ax.tick_params(axis='y', labelsize=24)
+    ax.legend(bbox_to_anchor=(0.5, 1.2), loc='lower center', fontsize=24, ncol=3)
     
     plt.tight_layout()
     plt.savefig(output_path, bbox_inches='tight')
